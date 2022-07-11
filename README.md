@@ -1,5 +1,5 @@
 # Site Cesar School
-Teste altomatizado
+Teste automatizado
 
 Linguagem de programação: Python
 Biblioteca BDD: Behave
